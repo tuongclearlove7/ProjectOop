@@ -1,35 +1,3 @@
-
-# Hi! I'm CLearLove7💻 #
-
-
-![age](https://img.shields.io/badge/age-20-silver)
-![focus](https://img.shields.io/badge/focus-App-00B2BF)
-![living](https://img.shields.io/badge/living-DaNangCity-red)
-![Coder](https://img.shields.io/badge/Coder-CLearLove7-green)
-![ProfileViews](https://img.shields.io/badge/ProfileViews-7000-yellow)
-
-
-
-
-## Dev Programming Languages ##
-
-
-<p>
-     
-     
-     
-![Python](https://img.shields.io/badge/-Python-silver?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-silver?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-white?style=flat&logo=C&logoColor=black)&nbsp;
-![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=yellow)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-00B2BF?style=flat&logo=HTML5)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-00B2BF?style=flat&logo=node.js&logoColor=339933)&nbsp;
-     
-     
-     
-    
-    
 ## Projects ##
 + Application ChatBotCLearLove7<code><img height="25" width="25" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 + Using Heroku <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
