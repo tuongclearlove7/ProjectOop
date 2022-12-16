@@ -1,6 +1,6 @@
 ## Projects ##
 + Application Score Of Student Management<code><img height="25" width="25" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-+ Using Heroku <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
++ Using Library Swing of java <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 + Link : https://chatbotclearlove7.herokuapp.com/?fbclid=IwAR2Xhp6tpNfIXlP1ynG8FzfzOJTvpNbZlagLFzVuS7aRq1hDvZzDexklcdw
 + Page app : https://www.facebook.com/Bot-117828560890633 
  <a href="https://facebook.com/ChatbotCL7"><img src="https://img.shields.io/badge/-ChatbotCL7-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -22,16 +22,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuongclearlove7&repo=C&theme=codeSTACKr" />
 </a>
     
-## GitHub Analytics ##
-<p align="left">
-<a href="https://github.com/tuongclearlove7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuongclearlove7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuongclearlove7&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
-
-
-## GitHub Stats ##
-<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=tuongclearlove7&theme=onedark" alt="tuongclearlove7" />
 
